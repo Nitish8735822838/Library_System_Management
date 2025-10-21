@@ -493,6 +493,7 @@ WHERE isbn = '978-0-141-44171-6';
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
 
 ## Author - Nitish Mandal
+
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/nitishmandal/)
 
  
